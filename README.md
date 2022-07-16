@@ -3,10 +3,10 @@
 ### About Me
 
 - 👀 I am Derrick, working as an Freelance Software Developer
-- 💻 I’m a full stack MERN developer and a content writer on Twitter
+- 💻 I’m a full stack developer and a Tech Enthusiast.
 - 🎓 I graduated in 2019 from Moringa School, Software Development and 2017 Technical University of Kenya (Bsc,Hospitality Management) with a 2nd Class Upper
 - 🌱 I’m currently learning Fast API & Cloud(Azure)
-- 💞️ Interests: Listening music, trying recipes, gaming and football
+- 💞️ Interests: Listening to music, trying recipes, gaming and football
 - 💬 Ask me about web dev & open source
 - 😄 Pronouns: he/his
 
