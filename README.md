@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning Fast API & Cloud(Azure)
 - 💞️ Interests: Listening to music, trying recipes, gaming and football
 - 💬 Ask me about web dev & open source
-- 😄 Pronouns: he/his
+
+![](https://komarev.com/ghpvc/?username=derriqo&color=green)
 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-william/)
 
