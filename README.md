@@ -2,7 +2,7 @@
 
 ### About Me
 
-- 👀 I am Derrick, working as an Fullstack Software Developer
+- 👀 I am Derrick, working as an Software Developer
 - 💻 I’m a full stack developer and a Tech Enthusiast.
 - 🎓 I graduated in 2019 from Moringa School, Software Development and 2017 Technical University of Kenya (Bsc,Hospitality Management) with a 2nd Class Upper
 - 🌱 I’m currently learning Fast API & Cloud(Azure)
