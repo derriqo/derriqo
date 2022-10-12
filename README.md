@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning Fast API , Cloud(Azure) and Game Development .
 - 💞️ Interests: Listening to music, trying recipes, gaming and football
 - 💬 Ask me about web dev & open source
+- 📞 You can contact me on 0715367248 or williamderrickcode@gmail.com
 
 
 
