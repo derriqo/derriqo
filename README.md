@@ -4,7 +4,7 @@
 
 - 👀 I am Derrick, working as a Software Developer
 - 💻 I’m a full stack developer and a Tech Enthusiast.
-- 🎓 I graduated in 2019 from Moringa School, Software Development and in 2017 from the Technical University of Kenya (Bsc, Hospitality Management) with a 2nd Class Upper
+- 🎓 I graduated in 2019 from Moringa School, Software Development 
 - 🌱 I’m currently in Cloud and Network Security.
 - 💞️ Interests: Gardening, trying recipes, gaming and football
 - 💬 Ask me about web dev & open source
