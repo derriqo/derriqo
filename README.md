@@ -4,8 +4,9 @@
 
 - 👀 I am Derrick, working as a Software Developer
 - 💻 I’m a full stack developer and a Tech Enthusiast.
-- 🎓 I graduated in 2019 from Moringa School, Software Development 
-- 🌱 I’m currently in Cloud and Network Security.
+- 🎓 I graduated in 2019 from Moringa School, Software Development
+- 🎓 I graduated in 2023 from Cyber Shujaa, Cloud and Network Security
+- 🌱 I’m currently in Computer Information Systems.
 - 💞️ Interests: Gardening, trying recipes, gaming and football
 - 💬 Ask me about web dev & open source
 - 📞 You can contact me on 0715367248 or williamderrickcode@gmail.com
